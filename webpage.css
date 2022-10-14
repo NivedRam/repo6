@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat&family=Comforter+Brush&family=Kanit:wght@800&family=Lobster&family=Source+Code+Pro:wght@500&display=swap');
+header {
+    background-color: whitesmoke;
+}
+
+#logo1 {
+    width: 155px;
+    height: 150px;
+    padding: 10px;
+}
+
+#hed1 {
+    margin-left: 50px;
+}
+
+.q1:hover {
+    color: green;
+}
+
+.q1 {
+    color: black;
+    margin-left: 20px;
+}
+
+#covr {
+    height: 425px;
+    width: 1350px;
+}
+
+main {
+    background-color: rgb(26, 126, 1);
+}
+
+#w1 {
+    height: 320px;
+    width: 280px;
+    margin-top: 30px;
+
+}
+
+#b1 {
+    margin-top: -121px;
+    margin-left: 244px;
+    height: 46px;
+    width: 144px;
+    border-radius: 30px;
+}
+#p1{text-align: left;}
+
+#d12{width: 216px;
+    height: 147px;
+    position: absolute;
+    left: 254px;
+    top: 303px;
+    font-family:  'Caveat', cursive;
+    color: white;
+    text-shadow: 100px;
+
+    }
+    #d13{
+        position: absolute;
+        margin-left: 290px;
+        margin-top: -80px;
+    }
+    #b11{border-radius: 20px;
+    background-color:  rgb(26, 126, 1);;
+color: white;}
+#w2{
+    height: 270px;
+    width: 250px;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+#d14{width: 216px;
+    height: 170px;
+    position: absolute;
+    left: 930px;
+    top: 695px;
+    font-family: 'Caveat', cursive;
+    color: white;
+    text-shadow: 100px;}
+    #d15{ position: absolute;
+        margin-left: 962px;
+        margin-top: -68px;
+        }
+ #b12{border-radius: 20px;
+     background-color:  rgb(26, 126, 1);;
+ color: white}
+ #mh1{
+    text-align: center;
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 100px;
+ }
+ #d16{
+    align-items: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 330px;
+    height: 280px;
+    margin-top: -43px;
+    margin-left: 475px;
+    border-radius: 30px;
+ }
+  .lb1{margin-top: 10px;
+    
+ }
+ #f1{
+    align-items: center;
+    padding: 4;
+    margin-top: 20px;
+    margin-left: 73px;
+    position: absolute;
+ }
+ #bb1{
+    background-color: rgb(255, 255, 255);
+    width: 219px;
+    height: 69px;
+    position:absolute;
+    left: 545px;
+    top: 1680px;
+    border-radius: 30px;
+ }
+ footer{ 
+    background-color: white;
+ }
+ #tbl1{
+    border-spacing: 20px;
+ }
+ #ftr1{
+    background-color: rgba(223, 221, 221, 0.986);
+    height: 100px;
+    align-items: center;
+ }
+ #lnk1{
+    padding: 20px;
+    color: rgb(44, 44, 44);
+    
+ }
+ #lnk2{
+    padding: 20px;
+    color: rgb(44, 44, 44);
+ }
+ #lnk3{
+    padding: 20px;
+    color: rgb(44, 44, 44);
+ }
+ #name{width: 200px;
+    height: 30px;
+border-radius: 10px;}
+#mno{width: 200px;
+    height: 30px;
+border-radius: 10px;}
+#dob{width: 200px;
+    height: 30px;
+border-radius: 10px;}
+#reg{
+    background-color: rgb(3, 163, 24);
+    color: white;
+    width: 119px;
+    height: 38px;
+    position:absolute;
+    /* left: 545px; */
+    top: 204px;
+    border-radius: 30px;
+}
+#pftr{color: grey;}
+.thd:hover{color: green;}
+.thd{color: black;}
