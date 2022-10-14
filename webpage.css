@@ -118,7 +118,7 @@ color: white;}
     height: 69px;
     position:absolute;
     left: 545px;
-    top: 1680px;
+    top: 2236px;
     border-radius: 30px;
  }
  footer{ 
@@ -167,3 +167,16 @@ border-radius: 10px;}
 #pftr{color: grey;}
 .thd:hover{color: green;}
 .thd{color: black;}
+
+video{width: 390px;
+    height: 220px;
+margin-left: 460px;}
+#banner{
+    width: 1333px;
+    height: 610px;
+}
+#bnr2{width: 1333px;
+    height: 610px;
+    margin-top: 5px;
+    margin-bottom: -4px;
+}
